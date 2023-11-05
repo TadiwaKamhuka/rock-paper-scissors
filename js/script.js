@@ -19,7 +19,7 @@ function playRound(playerSelection, computerSelection) {
     }
 }
 
-function game() {
+function playGame() {
     let result;
     let playerCount = 0;
     let computerCount = 0;
@@ -43,4 +43,4 @@ function game() {
     }
 }
 
-console.log(game());
+console.log(playGame());
