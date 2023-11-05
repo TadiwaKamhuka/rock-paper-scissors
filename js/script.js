@@ -32,8 +32,6 @@ function game() {
         } else if (result == "Computer wins"){
             computerCount++;
         } else {
-            playerCount++;
-            computerCount++;
         }
     }
     if (playerCount > computerCount){
